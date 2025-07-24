@@ -1,5 +1,5 @@
 Amidst Chaos💤💫
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=sneaxhuh&color=yellow" alt="Profile Views" />
 </p>
