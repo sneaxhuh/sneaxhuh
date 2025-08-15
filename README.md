@@ -3,11 +3,6 @@
   <img src="https://komarev.com/ghpvc/?username=sneaxhuh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=300&color=00BFFF&center=true&vCenter=true&width=500&lines=z;zz;zzZ;zzZZ;zzZZZ;zzZZZz;zzZZZzz;zzZZZzzZ;zzZZZzzZZ;zzZZZzzZZZ" alt="Sleeping animation" />
-</p>
-
-
 
 ---
 
